@@ -1,7 +1,7 @@
 {
 	"name": "Français - par défaut",
 	"version": "1.4.0",
-	"author": "Benjamin Bellamy",
+	"author": "Benoit SALLÉ, Benjamin Bellamy",
 	"publiiSupport": "0.42.0",
     "momentLocale": "fr",
     "wysiwygTranslation": true
